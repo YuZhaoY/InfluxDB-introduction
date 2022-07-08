@@ -1,2 +1,2 @@
 # yzy
-The .docx is an introduction to InfluxDB.
+The .docx is an introduction about InfluxDB.
